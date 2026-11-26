@@ -2,6 +2,10 @@
 
 OpenChain Southeast Asia Work Group · 26 November 2026
 
+- **Author** Jimmie
+- **Status** Draft for discussion
+- **Last updated** 27 November 2026
+
 ## Purpose and scope
 
 This draft presents a personal, preliminary comparison of Singapore’s cybersecurity laws and guidance with the EU Cyber Resilience Act, using the OpenChain CRA Checklist as a framework.
